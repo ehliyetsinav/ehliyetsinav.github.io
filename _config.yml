@@ -3,8 +3,8 @@ description: A simple, clean, and minimal Jekyll Theme.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://oinam.github.io
-baseurl: /oinam-jekyll
+url: https://ehliyetsinav.github.io
+baseurl: /sorulari
 
 # footer
 footer:
