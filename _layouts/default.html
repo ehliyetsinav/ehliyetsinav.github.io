@@ -19,15 +19,17 @@
 
 {% include styles.html %}
 {% include head-custom.html %}
-  {% include date-ge.html date=page.date %}
 
 
 </head>
 <body>
-{% include date-ge.html date=page.date %}
 {% include header.html %}
 
-<main>{{ content }}</main>
+<main>{{ content }}
+    {% include date-ge.html date=page.date %}
+
+  
+  </main>
 
 {% include footer.html %}
 
