@@ -7,6 +7,8 @@ layout: default
 
 <section class="home_posts">
   <h3 class="home_posts__title">
+    {% include locale-date.html %}
+
     {{ site.layout.home_postheader_title }}
     {% if site.layout.posts_home %}
       <a class="home_posts__meta" href="{{ site.baseurl | prepend: site.url }}{{ site.layout.posts_home }}">{{ site.layout.home_postmeta_title }}</a>
