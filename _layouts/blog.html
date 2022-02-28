@@ -3,7 +3,7 @@ layout: default
 ---
 
 {{ content }}
-
+{% include date-ge.html date=page.date %}
 <div class="items-list">
 {%- for post in site.posts -%}
 {%- assign currentdate = post.date | date: "%Y" -%}
