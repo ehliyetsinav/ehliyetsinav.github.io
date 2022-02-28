@@ -6,7 +6,6 @@ description: Önceki yıllarda çıkmış Ehliyet sınav sorularını çözmeniz
 url: https://ehliyetsinav.github.io
 baseurl: /sorulari
 
-language_default:   'tr'
 # footer
 footer:
   credit: true
@@ -45,10 +44,8 @@ sass:
 plugins:
  - jekyll-optional-front-matter # https://github.com/benbalter/jekyll-optional-front-matter
  - jekyll-titles-from-headings # https://github.com/benbalter/jekyll-titles-from-headings/
- - jekyll-language-plugin # https://github.com/vwochnik/jekyll-language-plugin
  
-gems:
-- jekyll-language-plugin
+
  
 
 
