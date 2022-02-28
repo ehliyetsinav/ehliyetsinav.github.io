@@ -7,6 +7,6 @@
 #
 layout: page
 ---
--  [{{ "now" | date: "%Y" "%B" }} Ehliyet Sınav Soruları Çözz](https://forms.gle/V7VTqNYJG4UVSaT36 "Ehliyet Sınav Soruları Çöz")
+-  [{{ "now" | date: "%Y %B" }} Ehliyet Sınav Soruları Çözz](https://forms.gle/V7VTqNYJG4UVSaT36 "Ehliyet Sınav Soruları Çöz")
 
 
