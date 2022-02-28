@@ -6,7 +6,7 @@ description: Önceki yıllarda çıkmış Ehliyet sınav sorularını çözmeniz
 url: https://ehliyetsinav.github.io
 baseurl: /sorulari
 
-
+language_default:   'tr'
 # footer
 footer:
   credit: true
