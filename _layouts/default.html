@@ -25,10 +25,13 @@
 <body>
 {% include header.html %}
 
-<main>{{ content }}
-    {% include date-ge.html date=page.date %}
+<main>{{ content
+  {% include date-ge.html date=page.date %}
+  
+  }}
+    
 
-  xx
+  x1x
   </main>
 
 {% include footer.html %}
