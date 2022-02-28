@@ -1,5 +1,5 @@
-title:  ... Ehliyet Sınav Soruları Çıkmış Sorular Çöz
-description: Daha önceki yıllarda çıkmış Ehliyet sınav sorularını çözmeniz için hazırlanmı öğrenci dostu platform. Tüm sorular çıkmış ehliyet sınav sorularından seçilerek oluşturulmuştur. E-sınav müfredatına uygundur!
+title:  {{ "now" | date: "%Y" }} Ehliyet Sınav Soruları Çıkmış Sorular Çöz
+description: Daha önceki yıllarda çıkmış Ehliyet sınav sorularını çözmeniz için hazırlanmış öğrenci dostu platform. Tüm sorular çıkmış ehliyet sınav sorularından seçilerek oluşturulmuştur. E-sınav müfredatına uygundur!
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
