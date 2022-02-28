@@ -1,17 +1,47 @@
-{% assign m = page.date | date: “%-m” %}
-{{ page.date | date: “%-d” }}
-{% case m %}
-{% when ‘1’ %}xxJanuar
-{% when ‘2’ %}Februarxx
-{% when ‘3’ %}März
-{% when ‘4’ %}April
-{% when ‘5’ %}Mai
-{% when ‘6’ %}Juni
-{% when ‘7’ %}Juli
-{% when ‘8’ %}August
-{% when ‘9’ %}September
-{% when ‘10’ %}Oktober
-{% when ‘11’ %}November
-{% when ‘12’ %}Dezember
-{% endcase %}
-{{ page.date | date: “%Y” }}
+{% capture hide %}
+
+{% if include.mode != 'month' %}
+
+  {% assign day = include.date | date: "%-d" %}
+
+{% endif %}
+
+{% if page.language == 'th' %}
+
+  {% assign m = include.date | date: "%-m" %}
+  {% case m %}
+    {% when '1' %}
+      {% capture month %}มกราคม{% endcapture %}
+    {% when '2' %}
+      {% capture month %}กุมภาพันธ์{% endcapture %}
+    {% when '3' %}
+      {% capture month %}มีนาคม{% endcapture %}
+    {% when '4' %}
+      {% capture month %}เมษายน{% endcapture %}
+    {% when '5' %}
+      {% capture month %}พฤษภาคม{% endcapture %}
+    {% when '6' %}
+      {% capture month %}มิถุนายน{% endcapture %}
+    {% when '7' %}
+      {% capture month %}กรกฎาคม{% endcapture %}
+    {% when '8' %}
+      {% capture month %}สิงหาคม{% endcapture %}
+    {% when '9' %}
+      {% capture month %}กันยายน{% endcapture %}
+    {% when '10' %}
+      {% capture month %}ตุลาคม{% endcapture %}
+    {% when '11' %}
+      {% capture month %}พฤศจิกายน{% endcapture %}
+    {% when '12' %}
+      {% capture month %}ธันวาคม{% endcapture %}
+  {% endcase %}
+
+{% else %}
+
+  {% capture month %}{{ include.date | date: "%B" }}{% endcapture %}
+
+{% endif %}
+
+{% capture year %}{{ include.date | date: "%Y" }}{% endcapture %}
+
+{% endcapture %}
