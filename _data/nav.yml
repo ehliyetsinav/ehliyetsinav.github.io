@@ -1,3 +1,8 @@
-    {% if site.layout.theme_switch != false %}
-      {% include appearance.html %}
-    {% endif %}
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Styleguide
+  url: /styleguide/
