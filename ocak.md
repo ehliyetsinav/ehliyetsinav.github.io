@@ -3,10 +3,11 @@ layout: page
 title: Ocak Ehliyet Sınav Soruları Çöz
 permalink: /ehliyet-sinav-sorulari-ocak/
 ---
+ {{ "now" | date: "%Y %B" }} Ocak Ehliyet Sınav Soruları Çöz
 
-This is an example page that uses the `page` layout.
 
-Visit the [Homepage]({{ site.baseurl | prepend: site.url }}/) for documentation on installation, setup, how-tos, features, and more about this Jekyll theme.
+
+
 
 ---
 
