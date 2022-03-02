@@ -54,7 +54,7 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
-      permalink: '/:year/:title/'
+      permalink: '/:title/'
 
 titles_from_headings:
   enabled: true
