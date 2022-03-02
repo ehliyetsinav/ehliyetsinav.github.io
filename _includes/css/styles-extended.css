@@ -19,7 +19,7 @@ footer.footer {
 }
 
 header.header {
-  text-align: center;
+  text-align: right;
   margin-bottom: var(--space-base);
   border-bottom: var(--border-width) solid var(--border-color);
 }
