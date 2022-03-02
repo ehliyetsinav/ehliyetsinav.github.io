@@ -7,6 +7,6 @@ permalink: /ehliyet-sinav-sorulari-ocak/
 
 Tavsiyemiz aşağıda yer alan soruların tamamını çözmenizdir. Çıkmış Soruların tamamanı çözdüğünüzde sınava hazır sayılırsınız.
 
-
+- [1 Ocak {{ "now" | date: "%Y" }}](# "1 Ocak {{ "now" | date: "%Y" }}")
 ---
 
