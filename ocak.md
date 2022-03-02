@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocak .... Ehliyet Sınav Soruları Çöz
+title: Ocak [{{ "now" | date: "%Y" }}  Ehliyet Sınav Soruları Çöz
 permalink: /ehliyet-sinav-sorulari-ocak/
 ---
 
