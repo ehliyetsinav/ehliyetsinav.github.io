@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ocak
-permalink: /ocak/
+title: Ocak .... Ehliyet Sınav Soruları Çöz
+permalink: /ehliyet-sinav-sorulari-ocak/
 ---
 
 This is an example page that uses the `page` layout.
