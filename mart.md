@@ -7,7 +7,12 @@ permalink: /ehliyet-sinav-sorulari-mart/
 
 Tavsiyemiz aşağıda yer alan soruların tamamını çözmenizdir. Çıkmış Soruların tamamanı çözdüğünüzde sınava hazır sayılırsınız.
 - [1 Mart {{ "now" | date: "%Y" }}](https://forms.gle/V7VTqNYJG4UVSaT36 "1 Mart {{ "now" | date: "%Y" }}")
-- [2 Mart {{ "now" | date: "%Y" }}](https://forms.gle/5j68TiFT6rxhw1f5A "1 Mart {{ "now" | date: "%Y" }}")
+- [2 Mart {{ "now" | date: "%Y" }}](https://forms.gle/5j68TiFT6rxhw1f5A "2 Mart {{ "now" | date: "%Y" }}")
+- [3 Mart {{ "now" | date: "%Y" }}](https://forms.gle/GKomNLca2zaSXHo46 "3 Mart {{ "now" | date: "%Y" }}")
+
+
+
+
  
 
 
