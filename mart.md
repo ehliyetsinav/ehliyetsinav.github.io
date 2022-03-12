@@ -12,6 +12,7 @@ Tavsiyemiz aşağıda yer alan soruların tamamını çözmenizdir. Çıkmış S
 - [4 Mart {{ "now" | date: "%Y" }}soruları ](https://forms.gle/Aof3GJe3PG2ykGXV6 "4 Mart {{ "now" | date: "%Y" }}")
 - [5 Mart {{ "now" | date: "%Y" }}soruları ](https://forms.gle/ENPvo8smcYFNrciSA "5 Mart {{ "now" | date: "%Y" }}")
 - [6 Mart {{ "now" | date: "%Y" }}soruları ](https://forms.gle/yFz1kKxH1uqs172s7 "6 Mart {{ "now" | date: "%Y" }}")
+- [7 Mart {{ "now" | date: "%Y" }}soruları ](https://forms.gle/C6aRYHre4pbfMoWs9 "7 Mart {{ "now" | date: "%Y" }}")
 
 
 Bilgi: Bu sayfa yeni sınavlar eklendikçe otomatik olarak kendini güncellemektedir.
