@@ -9,6 +9,9 @@ Tavsiyemiz aşağıda yer alan soruların tamamını çözmenizdir. Çıkmış S
 - [1 NİSAN {{ "now" | date: "%Y" }} soruları ](https://forms.gle/V7VTqNYJG4UVSaT36 "1 Nisan {{ "now" | date: "%Y" }}")
 
 
+Bilgi: Bu sayfa yeni sınavlar eklendikçe otomatik olarak kendini güncellemektedir.
+
+
 
 
 
