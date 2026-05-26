@@ -1,0 +1,2 @@
+durum: on
+mesaj:  bakım modu mesajı github
