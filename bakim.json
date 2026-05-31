@@ -1,6 +1,6 @@
 {
   "durum": "off",
   "mesaj": "‼️ Pro sürüm satın alanlar reklam görüyorsanız uygulamayı güncelleyin düzelecektir",
-  "popupDurum": "off",
+  "popupDurum": "on",
   "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
 }
