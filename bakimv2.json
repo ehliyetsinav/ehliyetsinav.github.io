@@ -1,1 +1,16 @@
 
+{
+  "ios": {
+    "durum": "off",
+    "mesaj": "iOS kullanıcılarına özel duyuru metni buraya gelecek.",
+    "popupDurum": "off",
+    "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
+  },
+  "android": {
+    "durum": "on",
+    "mesaj": "Pro sürüm indirimde kaçırmayın",
+    "popupDurum": "off",
+    "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
+  },
+  "baslik": "⚠️ Bilgilendirme"
+}
