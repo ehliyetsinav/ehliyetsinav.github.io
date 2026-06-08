@@ -3,7 +3,7 @@
   "ios": {
     "durum": "off",
     "mesaj": "iOS kullanıcılarına özel duyuru metni buraya gelecek.",
-    "popupDurum": "off",
+    "popupDurum": "on",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
