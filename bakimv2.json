@@ -1,13 +1,13 @@
 
 {
   "ios": {
-    "durum": "on",
+    "durum": "off",
     "mesaj": "Pro sürüm indirimde kaçırmayın.",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
-    "durum": "on",
+    "durum": "off",
     "mesaj": "Pro sürüm indirimde kaçırmayın",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
