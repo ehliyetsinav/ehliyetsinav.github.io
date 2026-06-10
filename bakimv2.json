@@ -7,8 +7,8 @@
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
-    "durum": "off",
-    "mesaj": "Pro sürüm indirimde kaçırmayın",
+    "durum": "on",
+    "mesaj": "Reklamsız sürüm son kez indirimde kaçırmayın. Bir kez ödeyin reklamlardan tamamen kurtulun. ",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
