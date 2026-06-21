@@ -2,15 +2,15 @@
 {
   "ios": {
     "durum": "on",
-    "mesaj": "🟢 Lütfen Profil Sekmesinden Giriş yapın.\n🟢Daha iyi kullanım için Giriş yapmanız önerilir.",
+    "mesaj": "✨Lütfen Profil Sekmesinden Giriş yapın.\n✨Daha iyi kullanım için Giriş yapmanız önerilir.",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
     "durum": "on",
-    "mesaj": "🟢Lütfen Profil Sekmesinden Giriş yapın.\n🟢Daha iyi kullanım için Giriş yapmanız önerilir. ",
+    "mesaj": "✨Lütfen Profil Sekmesinden Giriş yapın.\n✨Daha iyi kullanım için Giriş yapmanız önerilir. ",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
-  "baslik": "İpucu"
+  "baslik": "📌 İpucu"
 }
