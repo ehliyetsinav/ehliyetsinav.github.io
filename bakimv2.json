@@ -2,13 +2,13 @@
 {
   "ios": {
     "durum": "on",
-    "mesaj": "✨Bu süreçte sana elimden geldiğince destek olmaya çalışıyorum. Sen de hem bu emeğe katkı sağlamak hem de sıfır reklamla, dikkatini hiç dağıtmadan çalışmak istersen Pro'ya geçebilirsin. 💛 \nPro sürümde reklamlar tamamen kaldırılır",
+    "mesaj": "✨Bu süreçte sana elimden geldiğince destek olmaya çalışıyorum. Sen de hem bu emeğe katkı sağlamak hem de sıfır reklamla, dikkatini hiç dağıtmadan çalışmak istersen Pro'ya geçebilirsin. 💛 ✨\nPro sürümde reklamlar tamamen kaldırılır",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
     "durum": "on",
-    "mesaj": "✨Bu süreçte sana elimden geldiğince destek olmaya çalışıyorum. Sen de hem bu emeğe katkı sağlamak hem de sıfır reklamla, dikkatini hiç dağıtmadan çalışmak istersen Pro'ya geçebilirsin. 💛 \nPro sürümde reklamlar tamamen kaldırılır ",
+    "mesaj": "✨Bu süreçte sana elimden geldiğince destek olmaya çalışıyorum. Sen de hem bu emeğe katkı sağlamak hem de sıfır reklamla, dikkatini hiç dağıtmadan çalışmak istersen Pro'ya geçebilirsin. 💛 ✨\nPro sürümde reklamlar tamamen kaldırılır ",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
