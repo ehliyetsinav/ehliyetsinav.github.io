@@ -1,14 +1,14 @@
 
 {
   "ios": {
-    "durum": "off",
-    "mesaj": "🙋‍♂️Son günlerde sık sık güncelleme yapmamızın sebebi, uygulamayı sizler için daha iyi hale getirmektir. \n💛 Başarılar",
+    "durum": "on",
+    "mesaj": "🙋‍♂️Pro sürüm indirimde. Kaçırmayın \n💛 Başarılar",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
   "android": {
-    "durum": "off",
-    "mesaj": "✨🙋‍♂️Son günlerde sık sık güncelleme yapmamızın sebebi, uygulamayı sizler için daha iyi hale getirmektir.\n💛 Başarılar",
+    "durum": "on",
+    "mesaj": "✨🙋‍♂️Pro sürüm indirimde. Kaçırmayin. \n💛 Başarılar",
     "popupDurum": "off",
     "popupMesaj": "Bakım çalışması devam ediyor.\nEn kısa sürede çözmeye çalışıyoruz.\nAnlayışınız ve desteğiniz için teşekkür 🙋‍♂️"
   },
